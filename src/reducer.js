@@ -1,5 +1,4 @@
 import {combineReducers} from 'redux'
-import {user} from './redux/user.redux'
-// import {card} from './redux/card.redux'
+import {test} from './redux/test.redux'
 
-export default combineReducers({user})
+export default combineReducers({test})
